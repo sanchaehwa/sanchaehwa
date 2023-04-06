@@ -1,4 +1,16 @@
 ### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HwaYeong_GitHub&fontSize=40" />
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=sanchaehwa&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=sanchaehwa&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=sanchaehwa&show_icons=true" />
+</picture>
 
 <!--
 **sanchaehwa/sanchaehwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
