@@ -17,8 +17,6 @@
           <img src="https://github-readme-stats.vercel.app/api?username=sanchaehwa&show_icons=true" />
           </picture>
           <br>
-          <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23E5D2E6&title_bg=%23FF8787&icon=linux.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-          <br>
           <hr width=”50” color=”#0000” noshade />
           <h2> 🔭 I’m currently working on ! </h2>
             <h3>[ 2022 ]</h3> 
