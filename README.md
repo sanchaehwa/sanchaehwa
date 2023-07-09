@@ -20,7 +20,7 @@
 </p>
 
 ## 👩🏻‍💻Career👩🏻‍💻
-<sub>
+
 > 💻 PR team Leader of 신세계 아이앤씨 리테일테크 (2022.09 ~ 2023.01) <br>
 > 💻 Team Leader of Naver Connect BoostCource Data Science (2022.10 ~ 11)<br>
 > 🦁 Leader of Hallym University of likelion (2023.12 ~ ) <br>
