@@ -26,7 +26,7 @@
             🦁 Leader of Hallym University of likelion  <br>
             💡 여운 Project 프론트엔드 팀장 <br>
             🦁 멋쟁이사자처럼 대학 프로젝트 프론트엔드 팀장 <br>
-            👩🏻‍🔬 융합 정보 통신 연구실 학부 연구생 <br>
+            👩🏻‍🔬 한림대학교 융합 정보 통신 연구실 학부 연구생 <br>
           <h2>🌱 I’m currently learning ! </h2>
           ⚒️ Platfoms & Languages <br><br>
           <img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
