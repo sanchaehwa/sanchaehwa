@@ -30,6 +30,6 @@
     
 ## 🌈 My Github Stats
 
-![HwaYeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwaYeong&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=sanchaehwa&show_icons=true" />
 
 
