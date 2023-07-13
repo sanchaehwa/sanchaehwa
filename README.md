@@ -24,7 +24,8 @@
 
 > 💻 PR team Leader of 신세계 아이앤씨 리테일테크 (2022.09 ~ 2023.01) <br>
 > 💻 Team Leader of Naver Connect BoostCource Data Science (2022.10 ~ 11)<br>
-> 🦁 Leader of Hallym University of likelion (2023.12 ~ ) <br>
+> 🦁 Leader of Hallym University of likelion (2022.12 ~ ) <br>
+> 🦅 Team SIG_DL of Veritross (2023.02 ~ ) <br>
 > 💡 여운 Project 프론트엔드 팀장 (2023.04 ~ )<br>
 > 👩🏻‍🔬 한림대학교 융합 정보 통신 연구실 학부 연구생  (2023.06 ~ )<br>
     
