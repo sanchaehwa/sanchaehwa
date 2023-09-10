@@ -31,6 +31,7 @@
 > 🦅 Team SIG_DL of Veritross (2023.02 ~ 2023.08 ) <br>
 > 🦁 Leader of Hallym University of likelion (2022.12 ~ ) <br>
 > 🦅 Team EDGEAI of Veritross (2023.09 ~  ) <br>
+> 🦅 Student Leader of Veritross (2023.09 ~  ) <br>
 > 💡 여운 Project 프론트엔드 팀장 (2023.04 ~ )<br>
 > 💡 LIKELION_OF_UNIV Project 프론트엔드 팀장 (2023.03 ~ )<br>
 > 👩🏻‍🔬 한림대학교 융합 정보 통신 연구실 학부 연구생  (2023.06 ~ )<br>
