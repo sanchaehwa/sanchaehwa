@@ -35,7 +35,7 @@
 > 🦁 Leader of Hallym University of Likelion 1️⃣1️⃣th (2022.12 ~ 2023.12 ) <br>
 > 🦅 Team EDGEAI of Veritross (2023.09 ~  ) <br>
 > 🦅 Leader of Veritross (2023.09 ~  ) <br>
-> 💡 LIKELION_OF_UNIV Project Frontend 팀장 (2023.03 ~ )<br>
+> 💡 LIKELION_OF_UNIV Project Frontend 팀장 (2023.03 ~ 2024.01 )<br>
 > 👩🏻‍🔬 한림대학교 융합 정보 통신 연구실 학부 연구생  (2023.06 ~ )<br>
     
 ## 🌈 My Github Stats
