@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=4500&color=B4ADD6&width=600&lines=_Welcome_Hwa_Yeong_+)](https://git.io/typing-svg)
+<div align=center ><img src="https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=B2CABF&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hello+HwaYeong's+Github+%E3%80%80%E3%80%80"><br/><br><br>
 
 
 ## 💪 Skills
