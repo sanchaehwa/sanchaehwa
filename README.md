@@ -23,9 +23,6 @@
 > 🦅  EDGE AI Team of Veritross (2023.09 ~  ) <br>
 > 👩🏻‍🔬 한림대학교 융합 정보 통신 연구실 학부 연구생  (2023.06 ~ )<br>
     
-## 🌈 Most used language github
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hwayeong&langs_count=5&layout=compact&theme=white)](https://github.com/sanchaehwa)﻿
 
 
 
