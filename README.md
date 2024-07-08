@@ -16,11 +16,10 @@
 
 > 💻 PR team Leader of 신세계 아이앤씨 리테일테크 (2022.09 ~ 2023.01) <br>
 > 💻 Team Leader of Naver Connect BoostCource Data Science (2022.10 ~ 11)<br>
-> 🦅 SIG_DL Team of Veritross (2023.02 ~ 2023.08 ) <br>
+> 🦅 Veritross (SIGDL / EDGEAI ) (2023.01 ~ 2024.07 ) <br>
 > 🦁 한림대학교 멋쟁이사자처럼 11기 대표 (2022.12 ~ 2023.12 ) <br>
+> 🦅 컴퓨터학술동아리 [Veritross](https://veritross.org/ ) 학생회장 (2023.09 ~ 2024.07 ) <br>
 > 💡 멋쟁이사자처럼 대학 홈페이지- [LikelionUniv](https://likelion.university/) 프론트엔드 팀장 (2023.03 ~ 2024.02 )<br>
-> 🦅 컴퓨터학술동아리 [Veritross](https://veritross.org/ ) 학생회장 (2023.09 ~  ) <br>
-> 🦅 EDGE AI Team of Veritross (2023.09 ~  ) <br>
 > 👩🏻‍🔬 한림대학교 융합정보통신연구실 학부연구생  (2023.06 ~ )<br>
     
 
