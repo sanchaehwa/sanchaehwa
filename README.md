@@ -3,7 +3,7 @@
 
 ## 💪 Skills
  👩🏻‍💻WEB<br>
-<img src="https://skillicons.dev/icons?i=ts,react,js,styledcomponents,vercel,jquery,html,sass &perline="/><br>
+<img src="https://skillicons.dev/icons?i=ts,react,js,styledcomponents,vercel,sass,spring,fastapi &perline="/><br>
 👩🏻‍💻Language<br>
 <img src="https://skillicons.dev/icons?i=java,python,c &perline="/><br>
 👩🏻‍💻AI & ETC <br>
