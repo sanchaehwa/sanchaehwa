@@ -1,6 +1,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=B2CABF&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hello+HwaYoung's+Github+%E3%80%80%E3%80%80"><br/>
 
-
+<h3> Stack  </h3>
 <div> 
  <h5>Tech Stack</h5>
   <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white">
@@ -31,3 +31,10 @@
   <br>
   
 </div>
+<h3> About Me  </h3>
+
+`🦁 한림대학교 멋쟁이사자처럼 11기 대표 (2022.12 ~ 2023.12 )` <br>
+`💡 멋쟁이사자처럼 대학 홈페이지- LikelionUniv 프론트엔드 팀장 (2023.03 ~ 2024.02 )`<br>
+`🦅 컴퓨터학술동아리 Veritross 학생회장 (2023.09 ~ 2024.08 )` <br>
+`🦅 EDGE AI Team of Veritross ( ~  2024.08)` <br>
+`👩🏻‍🔬 한림대학교 융합정보통신연구실 학부연구생  (2023.06 ~ 2024.08)`<br>
