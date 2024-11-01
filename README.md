@@ -10,8 +10,7 @@
   <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
-   <img src="https://img.shields.io/badge/fastapi-009688?style=flat-square&logo=fastapi&logoColor=white">
-     <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
 
   <br>
   <h5>Language</h5>
