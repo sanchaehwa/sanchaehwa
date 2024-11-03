@@ -36,5 +36,5 @@
 🦅 컴퓨터학술동아리 Veritross 학생회장 (2023.09 ~ 2024.08 )<br>
 🦅 EDGE AI Team of Veritross ( ~  2024.08)<br>
 👩🏻‍🔬 한림대학교 융합정보통신연구실 학부연구생  (2023.06 ~ 2024.08)<br><br><br>
- <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanchaehwa&layout=compact&hide=issues" alt="Git Prim stats" height="160px" /></a>
+
 <img src="https://render.gitanimals.org/farms/sanchaehwa" height="180" />
