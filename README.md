@@ -10,13 +10,11 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=black">
   <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black">
-
   <br>
   <h5>Language</h5>
-     <img src="https://img.shields.io/badge/java-%23ED8B00?style=flat-square&logo=java&logoColor=black">
-
-  <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
+   <img src="https://img.shields.io/badge/java-%23ED8B00?style=flat-square&logo=OpenJDK&logoColor=black">
+   <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c%2B%2B&logoColor=white">
+   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
   <br>
    <h5>Development Tools</h5>
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white">    
