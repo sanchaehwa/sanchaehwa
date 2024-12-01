@@ -4,9 +4,9 @@
 
 | **Organization & Activity**                     | **Role**                      | **Period**           |
 |-------------------------------------------------|------------------------------|----------------------|
-| **Hallym University LikeLion 11th** (11th Leader) | Leader                       | 2022.12 ~ 2023.12    |
+| **Hallym University LikeLion 11th** (11th Leader) | Leader                       | 2022.12 ~ 2023.12 |
 | **LIKELION University Development TF Team**      | Frontend Team Leader         | 2023.03 ~ 2024.02    |
-| **Veritross (컴퓨터 학술동아리)** (EDGE AI Team)  | Student Leader               | 2023.09 ~ 2024.08    |
+| **Veritross (컴퓨터 학술동아리)** (EDGE AI Team)  | Student Leader               | 2023. ~ 2024.08    |
 | **Hallym University Convergence ICT Lab**        | Undergraduate Researcher     | 2023.06 ~ 2024.08    |
 
 
