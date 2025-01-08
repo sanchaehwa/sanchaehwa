@@ -18,8 +18,9 @@
 ![DBeaver](https://img.shields.io/badge/Dbeaver-382923?style=flat-square&logo=Dbeaver&logoColor=white) 
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) 
-
-
+<!-- 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanchaehwa&show_icons=true&locale=en&layout=compact" alt="sanchaehwa" /></p>
+-->
 <!-- 
 ### About Me 👩🏻‍💻
 
@@ -30,9 +31,9 @@
 | **Veritross (컴퓨터 학술동아리)** (EDGE AI Team)  | Student Leader               | 2023. ~ 2024.08      |
 | **Hallym University CIC Lab**                  | Undergraduate Researcher     | 2023.06 ~ 2024.08    |
 -->
-
+<!--
 [![Young's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanchaehwa&count_private=true&show_icons=true&theme=prussian)](https://github.com/sanchaehwa/github-readme-stats)
-
+-->
 <!-- 
 [![Solved.acsanchaehwa](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeong20311)](https://solved.ac/yeong20311)
 -->
