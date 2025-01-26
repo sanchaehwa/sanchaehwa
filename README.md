@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=B2CABF&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hello+HwaYoung's+Github+%E3%80%80%E3%80%80"><br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=96C89F&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hello+HwaYoung's+Github+%E3%80%80%E3%80%80"><br/>
 
 #### Tech Stack 
 
