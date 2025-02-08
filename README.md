@@ -7,7 +7,6 @@
 #### Infra
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon Web Services&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat-square&logo=Github Actions&logoColor=white"/>
 #### Tools 
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-E34F26?style=flat-square&logo=postman&logoColor=white) 
 ![DBeaver](https://img.shields.io/badge/Dbeaver-382923?style=flat-square&logo=Dbeaver&logoColor=white) 
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) 
