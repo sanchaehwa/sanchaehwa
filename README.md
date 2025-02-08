@@ -1,17 +1,11 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=96C89F&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hello+HwaYoung's+Github+%E3%80%80%E3%80%80"><br/>
+####  Tech Stack
+#### Server
 
-#### Tech Stack 
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white"/> <img alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
 
-
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) 
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=black) 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) 
-![Java](https://img.shields.io/badge/Java-%23ED8B00?style=flat-square&logo=OpenJDK&logoColor=black) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
-
+#### Infra
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon Web Services&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat-square&logo=Github Actions&logoColor=white"/>
 #### Tools 
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-E34F26?style=flat-square&logo=postman&logoColor=white) 
