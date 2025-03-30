@@ -1,4 +1,3 @@
-<!-- 
 <img src="https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=96C89F&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hello+HwaYoung's+Github+%E3%80%80%E3%80%80"><br/>
 ####  Tech Stack
 #### Server
@@ -12,7 +11,6 @@
 ![DBeaver](https://img.shields.io/badge/Dbeaver-382923?style=flat-square&logo=Dbeaver&logoColor=white) 
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) 
--->
 <!-- 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanchaehwa&show_icons=true&locale=en&layout=compact" alt="sanchaehwa" /></p>
 -->
