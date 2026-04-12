@@ -17,5 +17,3 @@
 
 [![Young's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanchaehwa&count_private=true&show_icons=true&theme=prussian)](https://github.com/sanchaehwa/github-readme-stats)
 -->
-[![Solved.acsanchaehwa](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeong20311)](https://solved.ac/yeong20311)
-
